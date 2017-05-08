@@ -1,4 +1,4 @@
-openshift-jee-sample - for cix
+openshift-jee-sample - for cixx
 ====================
 
 A sample app to be deployed on openshift environments
